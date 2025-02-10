@@ -9,7 +9,7 @@
   
 - 🌱 I’m currently learning **MERN , Flutter and React**
 
-- 🧑‍🎓 I’m an Undergraduate at **Plymouth**
+- 🧑‍🎓 I’m an Undergraduate at **Plymouth University**
 
 - 📫 How to reach me **chathuminalyg@gmail.com**
 
